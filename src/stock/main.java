@@ -7,7 +7,7 @@ package stock;
 
 /**
  *
- * @author Asus
+ * @author Roshan
  */
 public class main extends javax.swing.JFrame {
 
